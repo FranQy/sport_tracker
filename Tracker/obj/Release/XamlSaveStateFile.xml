@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="d:\projekty\c#\phone\tracker\tracker\packages\facebook.7.0.6\lib\portable-win81+wpa81\facebook.dll" HashGuid="b23a2499-2700-fb5e-a497-93d9e719fc0b" />
+    <ReferenceAssembly PathName="d:\projekty\c#\phone\tracker\tracker\packages\winrtxamltoolkit.controls.datavisualization.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.controls.datavisualization.dll" HashGuid="9b581ce9-a3d5-c68e-4833-5c7b7f7772c7" />
+    <ReferenceAssembly PathName="d:\projekty\c#\phone\tracker\tracker\packages\winrtxamltoolkit.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="221e17c6-64f2-d53e-b7b5-145a2dbe921c" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
